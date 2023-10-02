@@ -373,45 +373,10 @@ function Hero() {
                             data-v-a9e36021=""
                             data-v-d93ab3f1=""
                         >
-                            {/* <div className="text" data-v-d93ab3f1="">
-                                Read more
-                            </div>
-                            <div className="icon" data-v-d93ab3f1="">
-                                <div className="kit-icon is-fill" data-v-d93ab3f1="">
-                                    <svg
-                                        width={24}
-                                        height={24}
-                                        viewBox="0 0 24 24"
-                                        fill="none"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                    >
-                                        <path
-                                            d="M19 12H5"
-                                            stroke="white"
-                                            strokeWidth="1.5"
-                                            strokeLinecap="round"
-                                            strokeLinejoin="round"
-                                        />
-                                        <path
-                                            d="M14 17L19 12"
-                                            stroke="white"
-                                            strokeWidth="1.5"
-                                            strokeLinecap="round"
-                                            strokeLinejoin="round"
-                                        />
-                                        <path
-                                            d="M14 7L19 12"
-                                            stroke="white"
-                                            strokeWidth="1.5"
-                                            strokeLinecap="round"
-                                            strokeLinejoin="round"
-                                        />
-                                    </svg>
-                                </div>
-                            </div> */}
+
                         </a>
                         <div className="platforms" data-v-a9e36021="">
-                            <a
+                            {/* <a
                                 href="/"
                                 rel="noopener noreferrer"
                                 target="_blank"
@@ -419,43 +384,16 @@ function Hero() {
                                 data-v-a9e36021=""
                                 data-v-0c056308=""
                             >
-                                {/* <div className="icon" data-v-0c056308="">
-                                    <div className="kit-icon is-fill" data-v-0c056308="">
-                                        <svg
-                                            width={40}
-                                            height={40}
-                                            viewBox="0 0 40 40"
-                                            fill="none"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                        >
-                                            <path
-                                                d="M25.0667 12.9558L11.4153 5.03883C10.8924 4.72566 10.2822 4.54492 9.62916 4.54492C8.36127 4.54492 7.23725 5.26778 6.63558 6.30395L19.1778 18.8435L25.0667 12.9558Z"
-                                                fill="#EEEEEE"
-                                            />
-                                            <path
-                                                d="M6.17188 8.15244V31.847L18.0216 19.9996L6.17188 8.15244Z"
-                                                fill="#EEEEEE"
-                                            />
-                                            <path
-                                                d="M6.63581 33.6952C7.23763 34.7313 8.36168 35.454 9.62915 35.454C10.2681 35.454 10.868 35.2813 11.3825 34.978L11.4233 34.9541L25.0898 27.0663L19.1779 21.1556L6.63581 33.6952Z"
-                                                fill="#EEEEEE"
-                                            />
-                                            <path
-                                                d="M26.556 26.2201L32.007 23.074C33.0913 22.4886 33.8274 21.3456 33.8274 20.0274C33.8274 18.7187 33.1012 17.5813 32.0277 16.994L32.0154 16.9856L26.5303 13.8046L20.3341 19.9996L26.556 26.2201Z"
-                                                fill="#EEEEEE"
-                                            />
-                                        </svg>
-                                    </div>
-                                </div> */}
+
                                 <div className="content" data-v-0c056308="">
                                     <div className="prefix" data-v-0c056308="">
                                         Read
                                     </div>
-                                    <div className="name" data-v-0c056308="">
+                                     <div className="name" data-v-0c056308="">
                                         Whitepaper
                                     </div>
                                 </div>
-                            </a>
+                            </a> */}
                             <a
                                 href="/"
                                 rel="noopener noreferrer"
@@ -464,26 +402,7 @@ function Hero() {
                                 data-v-a9e36021=""
                                 data-v-0c056308=""
                             >
-                                {/* <div className="icon" data-v-0c056308="">
-                                    <div className="kit-icon is-fill" data-v-0c056308="">
-                                        <svg
-                                            width={40}
-                                            height={40}
-                                            viewBox="0 0 40 40"
-                                            fill="none"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                        >
-                                            <path
-                                                d="M28.2321 21.0606C28.1932 16.8494 31.7686 14.8007 31.9321 14.7053C29.9072 11.8269 26.7687 11.4336 25.6658 11.4022C23.0298 11.1318 20.4729 12.9401 19.1301 12.9401C17.7606 12.9401 15.6928 11.4283 13.4642 11.4728C10.5964 11.5159 7.9135 13.1348 6.44207 15.6487C3.40541 20.7744 5.67018 28.307 8.57953 32.4502C10.0349 34.4793 11.7355 36.745 13.9614 36.6653C16.139 36.5777 16.9525 35.3116 19.5804 35.3116C22.1842 35.3116 22.9481 36.6653 25.2182 36.6143C27.5553 36.5777 29.0268 34.576 30.4312 32.5286C32.113 30.2028 32.7884 27.9124 32.8152 27.7948C32.7603 27.7765 28.2763 26.108 28.2321 21.0606Z"
-                                                fill="#EEEEEE"
-                                            />
-                                            <path
-                                                d="M23.9438 8.67666C25.115 7.24855 25.9164 5.30564 25.6939 3.33398C23.9987 3.40715 21.8787 4.47726 20.6578 5.87401C19.5777 7.10482 18.6129 9.12221 18.8621 11.0194C20.7664 11.1579 22.7216 10.0826 23.9438 8.67666Z"
-                                                fill="#EEEEEE"
-                                            />
-                                        </svg>
-                                    </div>
-                                </div> */}
+
                                 <div className="content" data-v-0c056308="">
                                     <div className="prefix" data-v-0c056308="">
                                         Review
@@ -511,24 +430,7 @@ function Hero() {
                                     </div>
                                 </div>
                             </a>
-                            <a
-                                href="http://www.instagram.com/sriverse.io/"
-                                rel="noopener noreferrer"
-                                target="_blank"
-                                className="platform-item"
-                                data-v-a9e36021=""
-                                data-v-0c056308=""
-                            >
-
-                                <div className="content" data-v-0c056308="">
-                                    <div className="prefix" data-v-0c056308="">
-                                        Visit
-                                    </div>
-                                    <div className="name" data-v-0c056308="">
-                                        Instagram
-                                    </div>
-                                </div>
-                            </a>
+                            
                         </div>
                     </div>
                     <div className="picture" data-v-a9e36021="" />

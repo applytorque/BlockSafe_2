@@ -44,7 +44,7 @@ const Faq = () => {
                             data-v-e61416f2=""
                         >
                             <button
-                                className="bg-gradient-to-r from-blue-700 via-purple-600 to-blue-300 text-white
+                                className="bg-gradient-to-r  from-purple-700 to-pink-500 text-white
                                 py-4 px-6 rounded-lg mt-1 hover:from-blue-600
                                             hover:via-purple-700 hover:to-blue-300"
                                 data-v-e61416f2=""
@@ -319,7 +319,7 @@ const Faq = () => {
                             </div>
                         </div>
                         <button
-                            className="bg-gradient-to-r from-blue-700 via-purple-600 to-blue-300 text-white
+                            className="bg-gradient-to-r  from-purple-700 to-pink-500 text-white
                                                       py-4 px-6 rounded-lg mt-1 is-disabled hover:from-blue-600
                                             hover:via-purple-700 hover:to-blue-300"
                             data-v-f1d976bb=""

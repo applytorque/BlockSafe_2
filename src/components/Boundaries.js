@@ -1118,34 +1118,33 @@ const Boundaries = () => {
                               />
                         </div>
                         <div
-                              className="developers-block default-margin"
+                              className=" default-margin  "
                               data-v-b87b2b90=""
                               data-v-abed6bf0=""
                         >
-                              <div className="wrapper" data-v-abed6bf0="">
-                                    <div className="title" data-v-abed6bf0="">
+                              <div className=" mx-auto" data-v-abed6bf0="">
+                                    <div className=" md:w-[30%] text-3xl pl-5  md:text-5xl mx-auto font-semibold" data-v-abed6bf0="">
                                           KEY FEATURES
                                     </div>
                               </div>
-                              <div className="wrapper gap-10 mt-10" data-v-abed6bf0="">
-                                    <div className="buttons-compose" data-v-abed6bf0="">
-
-                                                <div
+                              <div className=" mx-auto mt-10" data-v-abed6bf0="">
+                                    <div className=" block md:flex gap-20 mx-auto w-[80%]" data-v-abed6bf0="">
+                                          <div
                                                 className=" text-white
                                                       py-5 px-8 bg-gray-60 border border-gray-700 rounded-lg mt-1 hover:from-blue-600
-                                                     w-72 text-lg   "
-                                                      data-v-abed6bf0=""
-                                                      data-v-d855b919=""
-                                                >
+                                                     w-80 text-lg   "
+                                                data-v-abed6bf0=""
+                                                data-v-d855b919=""
+                                          >
                                                 <div className="label " data-v-d855b919="">
-                                                            Based on Native open source smart contract protocol
-                                                      </div>
+                                                      Based on Native open source smart contract protocol
                                                 </div>
-                                          
+                                          </div>
+
                                           <div
                                                 className=" text-white
                                                       py-5 px-8 rounded-lg mt-1 hover:from-blue-600
-                                                    w-72 text-lg bg-gray-60 border border-gray-700 ml-10"
+                                                    w-80 text-lg bg-gray-60 border border-gray-700 "
                                                 data-v-abed6bf0=""
                                                 data-v-d855b919=""
                                           >
@@ -1156,12 +1155,12 @@ const Boundaries = () => {
                                           <div
                                                 className=" text-white
                                                       py-5 px-8 rounded-lg mt-1 hover:from-blue-600
-                                                     w-72 text-lg bg-gray-60 border border-gray-700 ml-10"
+                                                     w-80 text-lg bg-gray-60 border border-gray-700 "
                                                 data-v-abed6bf0=""
                                                 data-v-d855b919=""
                                           >
                                                 <div className="label" data-v-d855b919="">
-                                                Distributed multi-signature vault.
+                                                      Distributed multi-signature vault.
                                                 </div>
                                           </div>
 

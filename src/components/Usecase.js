@@ -13,13 +13,11 @@ const Usecase = () => {
                 <div className="title wrapper extend" data-v-0797090c="">
                     Problem it solves ?
                 </div>
-                <div className="blocks scroll-wrapper" data-v-0797090c="">
+                <div className="blocks md:flex block w-[90%] mx-auto" data-v-0797090c="">
                     <div className="block" data-v-0797090c="">
-                        <div className="title-with-icon" data-v-0797090c="">
                             <div className="text-2xl text-yellow-400" data-v-0797090c="">
-                                SAFER
+                                Safe
                             </div>
-                        </div>
                         <div className="text-gray-400 text-lg" data-v-0797090c="">
                             Safer alternative of custodial wallets, Single user/device non custodial wallets and hardware wallets to store & use crypto assets.
                         </div>
