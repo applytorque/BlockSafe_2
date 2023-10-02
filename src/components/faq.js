@@ -50,7 +50,6 @@ const Faq = () => {
                                 data-v-e61416f2=""
                                 data-v-d855b919=""
                             >
-                                {/**/}
                                 <div className="label" data-v-d855b919="">
                                     Ask us
                                 </div>
@@ -62,7 +61,6 @@ const Faq = () => {
                         data-v-e61416f2=""
                         data-v-996c2376=""
                     >
-                        {/*[*/}
                         <div className="is-open faq-item" data-v-996c2376="">
                             <div className="item-head" data-v-996c2376="">
                                 <div className="head-name" data-v-996c2376="">
@@ -174,7 +172,7 @@ const Faq = () => {
                                 <div className="splitter-gradient-line" data-v-996c2376="" />
                             </div>
                         </div>
-                       
+
                     </div>
                 </div>
             </div>

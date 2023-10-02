@@ -1141,17 +1141,7 @@ const Boundaries = () => {
                                                             Based on Native open source smart contract protocol
                                                       </div>
                                                 </div>
-                                          {/* <div
-                                                className=" text-white
-                                                      py-5 px-8 rounded-lg mt-1 hover:from-blue-600
-                                                     w-72 text-lg bg-gray-60 border border-gray-700 ml-10"
-                                                data-v-abed6bf0=""
-                                                data-v-d855b919=""
-                                          >
-                                                <div className="label my-auto" data-v-d855b919="">
-                                                      Build from Scratch
-                                                </div>
-                                          </div> */}
+                                          
                                           <div
                                                 className=" text-white
                                                       py-5 px-8 rounded-lg mt-1 hover:from-blue-600

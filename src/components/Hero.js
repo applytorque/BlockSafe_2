@@ -17,7 +17,6 @@ function Hero() {
                         <div className='md:flex md:justify-between ' >
                             <div className='relative z-100'>
                                 <h1 className="title" data-v-864e500f="">
-                                    {" "}
                                     Universal  <span data-v-864e500f="">Cryptomonetory</span>
                                     <br data-v-864e500f="" /> Asset Management {" "}
                                     <span data-v-864e500f="">Platform.</span>
