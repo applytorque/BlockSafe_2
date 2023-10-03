@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
-import HeaderLogo from "../assets/header-big.webp";
+import iphone from "../assets/iphone2.PNG";
 import S from "../assets/EQ.svg"
 
 function Hero() {
@@ -22,7 +22,7 @@ function Hero() {
                                     <span data-v-864e500f="">Platform.</span>
                                 </h1>
                                 <div className='mt-4'>
-                                    <h3 className='text-lg'>The value of all existing cryptocurrency is around <span  className='font-bold text-yellow-400 text-2xl'>$804 billion. <br /> </span> So is the need <span className='font-bold'>to secure it , use it and access defi space</span>   using multi user, <br /> multi device <span className='font-bold text-yellow-400 text-2xl'>Meta Vaults</span></h3>
+                                    <h3 className='text-lg'>The value of all existing cryptocurrency is around <span className='font-bold text-yellow-400 text-2xl'>$804 billion. <br /> </span> So is the need <span className='font-bold'>to secure it , use it and access defi space</span>   using multi user, <br /> multi device <span className='font-bold text-yellow-400 text-2xl'>Meta Vaults</span></h3>
                                 </div>
                                 {/* <div className="button-compose flex" data-v-864e500f="">
                                     <a href="/buy" className="" data-v-864e500f="">
@@ -56,7 +56,7 @@ function Hero() {
                                     </a>
                                 </div> */}
                             </div>
-                            <div className='absolute -z-100  md:relative'>
+                            <div className='absolute   md:relative'>
                                 <img
                                     src={S}
                                     alt="Header background"
@@ -88,7 +88,7 @@ function Hero() {
                                         New
                                     </div>
                                     <div className="regular-text" data-v-f6607e76="">
-                                        Prolific ecosystem to promote usability of METAVAULT
+                                        The DAO will govern the underlying protocol through ON-chain voting.
                                     </div>
 
                                 </a>
@@ -108,10 +108,7 @@ function Hero() {
                                         Live
                                     </div>
                                     <div className="regular-text" data-v-f6607e76="">
-                                        Exceptionally savvy affiliate
-                                        programs aimed at
-                                        reducing burden of
-                                        inflation
+                                        Steward its decentralised autonomous organisation (DAO) which will control the protocol and the project.
                                     </div>
 
                                 </a>
@@ -223,7 +220,7 @@ function Hero() {
                                         </div>
                                     </div>
                                     <div className="regular-text" data-v-f6607e76="">
-                                        IBANIZED ACCOUNTS
+                                        <b>Suppply : </b> 100 Million
                                     </div>
 
                                 </div>
@@ -233,12 +230,11 @@ function Hero() {
                                     data-v-f6607e76=""
                                 >
 
-                                    <div className="regular-text" data-v-f6607e76="">
-                                        100+ Projects
-                                    </div>
                                     <div className="big-text" data-v-f6607e76="">
-                                        Investing in diversified
-                                        high yield projects
+                                        DeFi Focused
+                                    </div>
+                                    <div className="regular-text" data-v-f6607e76="">
+                                        To integrate some of the most popular decentralized finance apps and protocols maintained on different blockchain networks.
                                     </div>
 
                                 </div>
@@ -248,11 +244,11 @@ function Hero() {
                                     data-v-f6607e76=""
                                 >
 
-                                    <div className="regular-text" data-v-f6607e76="">
-                                        Licensed by
-                                    </div>
                                     <div className="big-text" data-v-f6607e76="">
-                                        UAE&nbsp;<sup>©</sup>
+                                        Mult Device
+                                    </div>
+                                    <div className="regular-text" data-v-f6607e76="">
+                                        To develop applications for windows, Mac, android and IOS for better user experience
                                     </div>
 
                                 </div>
@@ -262,11 +258,11 @@ function Hero() {
                                     data-v-f6607e76=""
                                 >
 
-                                    <div className="regular-text" data-v-f6607e76="">
-                                        TRULY
-                                    </div>
                                     <div className="big-text" data-v-f6607e76="">
-                                        DECENTRALIZED GOVERNANCE
+                                        Configurable Vaults
+                                    </div>
+                                    <div className="regular-text" data-v-f6607e76="">
+                                        To offer more configuration on top of MV protocol for teams to deploy custom vaults as per choice.
 
                                     </div>
                                     <div
@@ -279,70 +275,25 @@ function Hero() {
 
                                 </div>
                                 <div
-                                    className="header-brick-item with-regular-and-big-text brick"
+                                    className="header-brick-item with-regular-and-big-text brick w-full"
                                     data-v-0f76d949=""
                                     data-v-f6607e76=""
                                 >
 
 
                                     <div
-                                        className="header-brick-item with-big-icon brick"
+                                        className="  brick w-[100%] -p-3"
                                         data-v-0f76d949=""
                                         data-v-f6607e76=""
                                     >
+
+                                        <div className=" text-sm md:text-xl font-bold md:font-medium md:pb-4" data-v-f6607e76="">
+                                            Custom tooling
+                                        </div>
 
                                         <div className="regular-text" data-v-f6607e76="">
-                                            EXCEPTIONAL ECONOMIC VALUE
+                                            standard development kit (SDK) for customization needs.
                                         </div>
-
-                                        <div className="big-icon" data-v-f6607e76="">
-                                            <div className="kit-icon is-fill" data-v-f6607e76="">
-                                                <svg
-                                                    width={25}
-                                                    height={25}
-                                                    viewBox="0 0 25 25"
-                                                    fill="none"
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                >
-                                                    <path
-                                                        d="M3.84814 15.5004H6.33427C7.43884 15.5004 8.33427 14.605 8.33427 13.5004V11.5004C8.33427 10.3958 9.22971 9.50042 10.3343 9.50042H12.3343C13.4388 9.50042 14.3343 8.60499 14.3343 7.50042V3.7251"
-                                                        stroke="#15CC97"
-                                                        strokeWidth="1.5"
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                    />
-                                                    <path
-                                                        d="M17.5835 19.9994C20.1956 19.9994 20.8367 16.7487 22.3335 15.885C21.2278 14.37 19.459 13.4818 17.5835 13.4998"
-                                                        stroke="#15CC97"
-                                                        strokeWidth="1.5"
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                    />
-                                                    <path
-                                                        d="M17.5842 19.9995C15.7893 19.9995 14.3342 18.5444 14.3342 16.7495C14.3342 14.9546 15.7893 13.4995 17.5842 13.4995"
-                                                        stroke="#15CC97"
-                                                        strokeWidth="1.5"
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                    />
-                                                    <path
-                                                        d="M17.8232 16.5161C15.9699 16.8261 14.3367 17.9113 13.3328 19.4997"
-                                                        stroke="#15CC97"
-                                                        strokeWidth="1.5"
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                    />
-                                                    <path
-                                                        d="M21.1031 10.5003C20.1149 6.159 16.1 3.19344 11.66 3.5253C7.2201 3.85715 3.69065 7.3866 3.3588 11.8265C3.02694 16.2665 5.9925 20.2814 10.3338 21.2696"
-                                                        stroke="#15CC97"
-                                                        strokeWidth="1.5"
-                                                        strokeLinecap="round"
-                                                        strokeLinejoin="round"
-                                                    />
-                                                </svg>
-                                            </div>
-                                        </div>
-
                                     </div>
                                 </div>
                             </div>
@@ -351,7 +302,7 @@ function Hero() {
                     </>
                 </div>
                 <div
-                    className="venom-wallet wrapper default-margin"
+                    className="venom-wallet wrapper default-margin md:flex md:overflow-hidden md:h-[400px]"
                     data-v-b87b2b90=""
                     data-v-a9e36021=""
                 >
@@ -361,7 +312,6 @@ function Hero() {
                             Trillion by 2025
                         </div>
                         <div className="content-text" data-v-a9e36021="">
-                            {" "}
                             Digitalization, tokenization of assets, retail trade and fractional
                             ownership (deFi) shall dominate the market by 2025.{" "}
                         </div>
@@ -430,11 +380,14 @@ function Hero() {
                                     </div>
                                 </div>
                             </a>
-                            
+
                         </div>
                     </div>
-                    <div className="picture" data-v-a9e36021="" />
+                    {/* <div className="picture" data-v-a9e36021="" /> */}
+                    <div><img src={iphone} alt="" className='h-[600px] w-[600px] hidden md:block ' /></div>
                 </div>
+                <div><img src={iphone} alt="" className='h-[400px] w-[250px] mx-auto md:hidden' /></div>
+
             </div>
         </>
     )
