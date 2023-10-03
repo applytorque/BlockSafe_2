@@ -287,7 +287,7 @@ const Faq = () => {
                         />
                     </a>
                 </div>
-                <div
+                {/* <div
                     className="stay-ahead-block wrapper extend default-margin"
                     data-v-b87b2b90=""
                     data-v-f1d976bb=""
@@ -330,7 +330,7 @@ const Faq = () => {
                             </div>
                         </button>
                     </div>
-                </div>
+                </div> */}
             </>
         </>
     )

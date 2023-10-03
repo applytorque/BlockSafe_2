@@ -4,6 +4,7 @@ import Boundaries from './Boundaries'
 import Usecase from './Usecase'
 import Overview from './Overview'
 import Faq from './faq'
+import Footer from './Footer'
 
 
 
@@ -16,6 +17,7 @@ export default function () {
       <Usecase />
       <Overview />
       <Faq />
+      <Footer/>
     </div>
   )
 }
