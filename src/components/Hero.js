@@ -345,7 +345,7 @@ function Hero() {
                                 </div>
                             </a> */}
                             <a
-                                href="/"
+                                href="https://docsend.com/view/65qz93m5k93v4baj"
                                 rel="noopener noreferrer"
                                 target="_blank"
                                 className="platform-item"
@@ -362,8 +362,11 @@ function Hero() {
                                     </div>
                                 </div>
                             </a>
+
+
+                            
                             <a
-                                href="http://www.twitter.com/Sriverseio"
+                                href="https://t.me/metavaultpro"
                                 rel="noopener noreferrer"
                                 target="_blank"
                                 className="platform-item"

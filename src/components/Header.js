@@ -23,21 +23,22 @@ const Navbar =
 					className={`flex justify-between p-4  px-8 sticky z-20 top-0
 						bg-gray-950  text-white w-full md:w-full
 					 `}>
-					<div className='flex items-center'>
+					<a href="/">
 						<div className='flex items-center'>
-							<img
-								src={
-									logo
-								}
-								alt='Meta Logo'
-								className='sm:w-8 sm:h-8  md:w-8 md:h-8 md:mr-2 h-8 w-8 '
-							/>{' '}
-							{/* Displayed on medium and larger screens */}
-							<span className='text-lg font-bold  hidden md:block'>
-								MetaVault
-							</span>
+							<div className='flex items-center'>
+								<img
+									src={
+										logo
+									}
+									alt='Meta Logo'
+									className='sm:w-8 sm:h-8  md:w-8 md:h-8 md:mr-2 h-8 w-8 '
+								/>
+								<span className='text-lg font-bold  hidden md:block'>
+									MetaVault
+								</span>
+							</div>
 						</div>
-					</div>
+					</a>
 					<div className='flex items-center space-x-4'>
 						{/* <button
 							className={`rounded-full p-2 ${
@@ -75,13 +76,14 @@ const Navbar =
 								</div>
 							</div>
 						</button> */}
-
-						<button className='bg-gradient-to-r from-purple-800 to-pink-600 text-white py-1 px-7 md:px-4 rounded-2xl hover:bg-blue-700 flex '>
-							Create{' '}
-							<span className='hidden md:block ml-1'>
-								Vault
-							</span>
-						</button>
+						<a href="https://app.metavault.pro">
+							<button className='bg-gradient-to-r from-purple-800 to-pink-600 text-white py-1 px-7 md:px-4 rounded-2xl hover:bg-blue-700 flex '>
+								Create{' '}
+								<span className='hidden md:block ml-1'>
+									Vault
+								</span>
+							</button>
+						</a>
 					</div>
 				</nav>
 			</>

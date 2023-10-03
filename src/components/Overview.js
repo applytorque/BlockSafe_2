@@ -421,7 +421,7 @@ const Overview = () => {
                         data-v-a7dd74ac=""
                         data-v-465bfb6b=""
                     >
-                        <a
+                        {/* <a
                             href="http://www.linkedin.com/in/sriverse-io-a95784281/"
                             rel="noopener noreferrer"
                             target="_blank"
@@ -441,9 +441,9 @@ const Overview = () => {
                             >
                                 <span data-v-465bfb6b="">LinkedIn</span>
                             </div>
-                        </a>
+                        </a> */}
                         <a
-                            href="https://twitter.com/Sriverseio"
+                            href=""
                             rel="noopener noreferrer"
                             target="_blank"
                             className="social-media-item twitter is-community"
@@ -475,7 +475,7 @@ const Overview = () => {
                             </div>
                         </a>
                         <a
-                            href="https://www.instagram.com/sriverse.io/"
+                            href="/"
                             rel="noopener noreferrer"
                             target="_blank"
                             className="social-media-item dev-forum is-community"
@@ -496,7 +496,7 @@ const Overview = () => {
                             </div>
                         </a>
                         <a
-                            href="https://t.me/sritoken"
+                            href="https://t.me/metavaultpro"
                             rel="noopener noreferrer"
                             target="_blank"
                             className="social-media-item medium is-community"
