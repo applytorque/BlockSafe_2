@@ -120,7 +120,7 @@ const Usecase = () => {
                        Metavault (MV) TOken
                     </div>
                     <div className="subtitle" data-v-a5255e30="">
-                       
+
                     </div>
                 </div>
 
@@ -162,7 +162,7 @@ const Usecase = () => {
                                 <li className='text-md text-slate-300'>MV token contract is upgradable to follow technological advancements and best security practices.
                                     .</li>
                                     <a href="https://bscscan.com/address/0x63f224f4942c86adccad8d1e328fe5d0121dac20#readProxyContract">
-                        <button className='mt-4 px-4 py-2 rounded-md  bg-gradient-to-r from-yellow-400 to-pink-600 mx-auto text-sm text-black font-bold'>
+                        <button className='mt-4 px-4 py-2 rounded-md  bg-gradient-to-r from-purple-700 to-pink-500 mx-auto text-sm text-gray-100 font-bold'>
                             Check MV Contract
                         </button>
                     </a>

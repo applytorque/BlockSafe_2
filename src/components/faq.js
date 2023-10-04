@@ -50,7 +50,7 @@ const Faq = () => {
                                 data-v-e61416f2=""
                                 data-v-d855b919=""
                             >
-                                <div className="label" data-v-d855b919="">
+                                <div className="label font-bold" data-v-d855b919="">
                                     Ask us
                                 </div>
                             </button>

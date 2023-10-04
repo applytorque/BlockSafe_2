@@ -70,7 +70,7 @@ const Navbar =
 							</div>
 						</button> */}
 						<a href="https://app.metavault.pro">
-							<button className='bg-gradient-to-r from-purple-800 to-pink-600 text-white py-1 px-7 md:px-4 rounded-2xl hover:bg-blue-700 flex '>
+							<button className='bg-gradient-to-r from-purple-800 to-pink-600 text-white py-1 px-7 md:px-4 rounded-2xl hover:bg-blue-700 flex font-semibold'>
 								Create{' '}
 								<span className='hidden md:block ml-1'>
 									Vault
