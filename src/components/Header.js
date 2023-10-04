@@ -1,11 +1,4 @@
-// import {
-// 	useState,
-// } from 'react';
 
-// import {
-// 	FiMoon,
-// 	FiSun,
-// } from 'react-icons/fi';
 import logo from '../assets/EQ.svg'
 const Navbar =
 	() => {
