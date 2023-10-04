@@ -24,21 +24,17 @@ const Footer =
                         support.
                     </p>
                 </div>
-                <div className='flex md:w-[30%] mx-auto pb-20 -mt-7 mb-5 md:mt-0 md:mb-0'>
-                    <a href="https://docsend.com/view/65qz93m5k93v4baj">
-                        <button className='px-4 py-2 rounded-md  bg-gradient-to-r from-purple-800 to-pink-600 mx-auto'>
-                            Pitch
-                            Deck
-                        </button>
-                    </a>
+                <div className='flex justify-center items-center md:w-[30%] mx-auto pb-20 -mt-7 mb-5 md:mt-0 md:mb-0'>
+  <a href="https://docsend.com/view/65qz93m5k93v4baj">
+    <button className='px-4 py-2 rounded-md bg-gradient-to-r from-purple-800 to-pink-600'>
+      Pitch Deck
+    </button>
+  </a>
+  <button className='px-4 py-2 rounded-md bg-gray-400 ml-2'>
+    Get Support
+  </button>
+</div>
 
-
-                        <button className='px-4 py-2 rounded-md bg-gray-400 mx-auto'>
-                            Get
-                            Support
-                        </button>
-                    
-                </div>
 
 
                 <footer className='bg-blue-950 text-gray-50 body-font pt-5 md:pt-0 hidden md:block '>

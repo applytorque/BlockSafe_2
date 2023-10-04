@@ -42,12 +42,12 @@ const Boundaries = () => {
                                     >
                                           <div className="title-with-icon" data-v-6ee8dd1e="">
                                                 <div className="title text-gray-400" data-v-6ee8dd1e="">
-                                                      Vault Deployment fee
+                                                      Revenue Generation
                                                 </div>
 
                                           </div>
                                           <div className="subtitle" data-v-6ee8dd1e="">
-                                               On vault creation by deployer-member
+                                               On vault creation and transactions
                                           </div>
 
                                     </div>
@@ -243,7 +243,7 @@ const Boundaries = () => {
                               data-v-abed6bf0=""
                         >
                               <div className=" mx-auto" data-v-abed6bf0="">
-                                    <div className=" md:w-[30%] text-3xl pl-5  md:text-5xl mx-auto font-semibold" data-v-abed6bf0="">
+                                    <div className=" md:w-[30%] text-3xl pl-5 text-center  md:text-5xl mx-auto font-semibold" data-v-abed6bf0="">
                                           Key Features
                                     </div>
                               </div>
@@ -281,6 +281,17 @@ const Boundaries = () => {
                                           >
                                                 <div className="label" data-v-d855b919="">
                                                       Distributed multi-signature vault.
+                                                </div>
+                                          </div>
+                                          <div
+                                                className=" text-white
+                                                      py-5 px-8 rounded-lg mt-1 hover:from-blue-600
+                                                     w-80 text-lg bg-gray-60 border border-gray-700  "
+                                                data-v-abed6bf0=""
+                                                data-v-d855b919=""
+                                          >
+                                                <div className="label" data-v-d855b919="">
+                                                      Not owned by any single member but collectivelly by all.
                                                 </div>
                                           </div>
 

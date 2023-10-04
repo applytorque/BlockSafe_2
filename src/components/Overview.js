@@ -474,7 +474,7 @@ const Overview = () => {
                                 <span data-v-465bfb6b="">Twitter</span>
                             </div>
                         </a>
-                        <a
+                        {/* <a
                             href="/"
                             rel="noopener noreferrer"
                             target="_blank"
@@ -494,7 +494,7 @@ const Overview = () => {
                             >
                                 <span data-v-465bfb6b="">Instagram</span>
                             </div>
-                        </a>
+                        </a> */}
                         <a
                             href="https://t.me/metavaultpro"
                             rel="noopener noreferrer"

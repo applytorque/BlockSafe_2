@@ -17,7 +17,7 @@ function Hero() {
                         <div className='md:flex md:justify-between ' >
                             <div className='relative z-100'>
                                 <h1 className="title" data-v-864e500f="">
-                                    Universal  <span data-v-864e500f="">Cryptomonetory</span>
+                                    Decentralized  <span data-v-864e500f="">Crypto</span>
                                     <br data-v-864e500f="" /> Asset Management {" "}
                                     <span data-v-864e500f="">Platform.</span>
                                 </h1>
@@ -174,7 +174,7 @@ function Hero() {
                                         </div>
                                     </div>
                                     <div className="regular-text" data-v-f6607e76="">
-                                        Cryptomonetary assets investing on blockchain
+                                        Based on natively developed open source protocol
                                     </div>
 
                                 </div>
@@ -220,7 +220,7 @@ function Hero() {
                                         </div>
                                     </div>
                                     <div className="regular-text" data-v-f6607e76="">
-                                        <b>Suppply : </b> 100 Million
+                                        <b>MV token Suppply : </b> 100 Million
                                     </div>
 
                                 </div>
@@ -308,7 +308,7 @@ function Hero() {
                 >
                     <div className="content" data-v-a9e36021="">
                         <div className="content-title" data-v-a9e36021="">
-                            Cryptomonetary market size to grow upto 11
+                            Crypto assets market size to grow upto 11
                             Trillion by 2025
                         </div>
                         <div className="content-text" data-v-a9e36021="">

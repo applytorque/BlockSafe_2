@@ -117,10 +117,10 @@ const Usecase = () => {
             >
                 <div className="wrapper extend" data-v-a5255e30="">
                     <div className="title" data-v-a5255e30="">
-                        Global Partner
+                       Metavault (MV) TOken
                     </div>
                     <div className="subtitle" data-v-a5255e30="">
-                        Steps to follow
+                       
                     </div>
                 </div>
 
@@ -155,29 +155,17 @@ const Usecase = () => {
                         <div className="info padding-extend" data-v-a5255e30="">
                             <ul className=" text-xl" data-v-a5255e30="">
 
-                                <li className='text-md mb-2 text-slate-300'>1. Use official
-                                    websites to
-                                    register yourself
-                                    as a member.</li>
-                                <li className='text-md text-slate-300' >2. METAVAULT
-                                    believes in
-                                    transparency and
-                                    KYC is must for
-                                    every member.</li>
-                                <li className='text-md mb-2 text-slate-300'>3. Once your KYC is
-                                    approved, you can
-                                    generate
-                                    blockchain
-                                    account public
-                                    and secret keys.</li>
-                                <li className='text-md mb-2 text-slate-300'>4. Trusted members
-                                    can purchase META
-                                    nodes by USDT with all Networks and with Airdrop Wallet.</li>
-                                <li className='text-md text-slate-300'>5. Blockchain does
-                                    not allow unidentified access,
-                                    Generate trust line
-                                    for METAVAULT
+                                <li className='text-md mb-2 text-slate-300'>METAVAULT (MV) token is a fixed supply crypto asset on BNB Chain.</li>
+                                <li className='text-md text-slate-300' >It has a total supply of 100 million.</li>
+                                <li className='text-md mb-2 text-slate-300'>MV Token is protocol asset and used to collect fee.</li>
+                                <li className='text-md mb-2 text-slate-300'>MV token is designed to enhance its utility with the growth of users and protocol upgrades.</li>
+                                <li className='text-md text-slate-300'>MV token contract is upgradable to follow technological advancements and best security practices.
                                     .</li>
+                                    <a href="https://bscscan.com/address/0x63f224f4942c86adccad8d1e328fe5d0121dac20#readProxyContract">
+                        <button className='mt-4 px-4 py-2 rounded-md  bg-gradient-to-r from-yellow-400 to-pink-600 mx-auto text-sm text-black font-bold'>
+                            Check MV Contract
+                        </button>
+                    </a>
                             </ul>
 
                         </div>
