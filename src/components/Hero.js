@@ -6,7 +6,7 @@ import S from "../assets/EQ.svg"
 function Hero() {
     return (
         <>
-            <div id="index-page" className="page " data-v-b87b2b90>
+            <div id="index-page" className="page" data-v-b87b2b90 >
                 <div
                     className="header-body-component wrapper"
                     data-v-b87b2b90=""
