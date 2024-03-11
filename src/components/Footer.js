@@ -25,7 +25,7 @@ const Footer =
                     </p>
                 </div>
                 <div className='flex justify-center items-center md:w-[30%] mx-auto pb-20 -mt-7 mb-5 md:mt-0 md:mb-0'>
-  <a href="https://docsend.com/view/65qz93m5k93v4baj">
+  <a href="https://docsend.com/view/xje9b7fr642cxrwv">
     <button className='px-4 py-2 rounded-md bg-gradient-to-r from-purple-800 to-pink-600'>
       Pitch Deck
     </button>

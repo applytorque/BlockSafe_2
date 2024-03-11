@@ -345,7 +345,7 @@ function Hero() {
                                 </div>
                             </a> */}
                             <a
-                                href="https://docsend.com/view/65qz93m5k93v4baj"
+                                href="https://docsend.com/view/xje9b7fr642cxrwv"
                                 rel="noopener noreferrer"
                                 target="_blank"
                                 className="platform-item"
