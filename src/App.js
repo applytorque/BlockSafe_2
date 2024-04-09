@@ -16,7 +16,7 @@ import MaintenanceModal from "./components/maintenanceModal";
 function App() {
     return (
         <div className='bg-gradient-to-t from-gray-900 to-slate-900'>
-            <MaintenanceModal />
+            {/* <MaintenanceModal /> */}
             <ClickToComponent />
             <Header />
 
