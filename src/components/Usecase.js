@@ -49,7 +49,7 @@ const Usecase = () => {
                         <div className="title-with-icon" data-v-0797090c="">
 
                             <div className="text-2xl text-yellow-400" data-v-0797090c="">
-                                1500 companies
+                                15000 companies
                             </div>
                         </div>
                         <div className="text-gray-400 text-lg" data-v-0797090c="">
