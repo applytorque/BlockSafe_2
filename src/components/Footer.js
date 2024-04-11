@@ -55,6 +55,9 @@ const Footer =
                             2020
                             MetaVault
                         </p>
+                        <a a href="/privacy" className='text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-600 sm:py-2 sm:mt-0 mt-4'>
+                            Privacy Policy
+                        </a>
                         <span className='inline-flex sm:ml-auto sm:mt-3 mt-4 justify-center sm:justify-start pb-6 gap-4'>
                             {/* <a className='text-gray-500'>
                                 <svg
