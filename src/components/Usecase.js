@@ -161,7 +161,7 @@ const Usecase = () => {
                                 <li className='text-md mb-2 text-slate-300'>MV token is designed to enhance its utility with the growth of users and protocol upgrades.</li>
                                 <li className='text-md text-slate-300'>MV token contract is upgradable to follow technological advancements and best security practices.
                                     .</li>
-                                    <a href="https://bscscan.com/address/0x63f224f4942c86adccad8d1e328fe5d0121dac20#readProxyContract">
+                                    <a href="https://bscscan.com/address/0x15aA331c5850EFE26469C7abE6DC3e387acc57fC#readProxyContract">
                         <button className='mt-4 px-4 py-2 rounded-md  bg-gradient-to-r from-yellow-400 to-pink-600 mx-auto text-sm text-black font-bold'>
                             Check MV Contract
                         </button>
