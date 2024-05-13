@@ -76,7 +76,7 @@ const Navbar =
 								</div>
 							</div>
 						</button> */}
-						<a href="/android/metavault.apk"  target="_blank"
+						<a href="/android"  target="_blank"
           rel="noopener noreferrer">
 							<button className='bg-gradient-to-r from-sky-300 to-sky-600 text-white py-1 px-7 md:px-4 rounded-2xl hover:bg-blue-700 flex '>
 								Download{' '}
