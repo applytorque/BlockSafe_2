@@ -134,7 +134,7 @@ const Faq = () => {
                             >
                                 {
                                     state3 ? <div className="item-content" data-v-996c2376="">
-                                        There is a gas fee on vault deployment based on EquinoxMain Defi Protocol. On transactions, governance proposals, and members addition/removal platform deducts a nominal fee over and above gas fee. To raise funds using Subscription swap platform charges a total of 3.2% of the total funds raised.
+                                        There is a gas fee on vault deployment based on MetaVault Defi Protocol. On transactions, governance proposals, and members addition/removal platform deducts a nominal fee over and above gas fee. To raise funds using Subscription swap platform charges a total of 3.2% of the total funds raised.
                                     </div> : ''
                                 }
 
